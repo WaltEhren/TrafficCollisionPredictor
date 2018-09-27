@@ -1,16 +1,8 @@
-# Daten verarbeiten:
-# Folge dem tutorial.
-# monat tag jahr splitten
-# Columns and datatype in array
-
-
 # ToDo:
-# Remove column id
-# entity embedding
-# handle deprecation
 # beautiful code and var names
-
-# columns: anzahl fahrzeuge, datum
+# datum fehlt
+# es wird nicht auf test evaluiert -> Test value nur zum evaluiaren nicht trainiern
+#
 
 from __future__ import absolute_import      #
 from __future__ import division             #
@@ -19,7 +11,6 @@ from __future__ import print_function       #
 import tensorflow as tf
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder
 
 
 
@@ -55,18 +46,18 @@ dtypes = {
 }
 
 feature_columns = [
-    tf.feature_column.categorical_column_with_vocabulary_list('Strassenklasse', vocabulary_list=['Bundesstrasse', 'nicht klassifiziert', 'Landesstrasse', 'Kraftfahrzeugstrasse', 'Autobahn']),
+    tf.feature_column.embedding_column(tf.feature_column.categorical_column_with_vocabulary_list('Strassenklasse', vocabulary_list=['Bundesstrasse', 'nicht klassifiziert', 'Landesstrasse', 'Kraftfahrzeugstrasse', 'Autobahn']), 3),
     tf.feature_column.numeric_column('Alter'),
-    tf.feature_column.categorical_column_with_vocabulary_list('Unfallklasse', vocabulary_list=['Fahrer', 'Passagier', 'Fussgänger']),
+    tf.feature_column.embedding_column(tf.feature_column.categorical_column_with_vocabulary_list('Unfallklasse', vocabulary_list=['Fahrer', 'Passagier', 'Fussgänger']), 3),
     #tf.feature_column.numeric_column('Unfallschwere'),
-    tf.feature_column.categorical_column_with_vocabulary_list('Lichtverhaeltnisse', vocabulary_list=['Tageslicht: Strassenbeleuchtung vorhanden', 'Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet', 'Dunkelheit: Strassenbeleuchtung vorhanden und nicht beleuchtet', 'Dunkelheit: Strassenbeleuchtung unbekannt', 'Dunkelheit: keine Strassenbeleuchtung']),
+    tf.feature_column.embedding_column(tf.feature_column.categorical_column_with_vocabulary_list('Lichtverhaeltnisse', vocabulary_list=['Tageslicht: Strassenbeleuchtung vorhanden', 'Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet', 'Dunkelheit: Strassenbeleuchtung vorhanden und nicht beleuchtet', 'Dunkelheit: Strassenbeleuchtung unbekannt', 'Dunkelheit: keine Strassenbeleuchtung']), 3),
     tf.feature_column.numeric_column('VerletztePersonen'),
     tf.feature_column.numeric_column('AnzahlFahrzeuge'),
-    tf.feature_column.categorical_column_with_vocabulary_list('Bodenbeschaffenheit', vocabulary_list=['nass / feucht', 'trocken', 'Frost / Eis', 'Frost/ Ice', 'Schnee']),
-    tf.feature_column.categorical_column_with_vocabulary_list('Geschlecht', vocabulary_list=['männlich', 'weiblich']),
+    tf.feature_column.embedding_column(tf.feature_column.categorical_column_with_vocabulary_list('Bodenbeschaffenheit', vocabulary_list=['nass / feucht', 'trocken', 'Frost / Eis', 'Frost/ Ice', 'Schnee']), 3),
+    tf.feature_column.embedding_column(tf.feature_column.categorical_column_with_vocabulary_list('Geschlecht', vocabulary_list=['männlich', 'weiblich']), 3),
     tf.feature_column.numeric_column('Zeit'),
-    tf.feature_column.categorical_column_with_vocabulary_list('Fahrzeugtyp', vocabulary_list=['Auto', 'Bus', 'Fahrrad', 'Taxi', 'Mottorrad (50cc)', 'Kleinbus', 'Transporter', 'Mottorrad (125cc)' 'Mottorrad (500cc)', 'Andere', 'LKW bis 7.5t']),
-    tf.feature_column.categorical_column_with_vocabulary_list('Wetterlage', vocabulary_list=['Gut', 'Schnee' 'Andere', 'Regen (starker Wind)', 'Unbekannt', 'Gut (starker Wind)', 'Regen']),
+    tf.feature_column.embedding_column(tf.feature_column.categorical_column_with_vocabulary_list('Fahrzeugtyp', vocabulary_list=['Auto', 'Bus', 'Fahrrad', 'Taxi', 'Mottorrad (50cc)', 'Kleinbus', 'Transporter', 'Mottorrad (125cc)' 'Mottorrad (500cc)', 'Andere', 'LKW bis 7.5t']), 3),
+    tf.feature_column.embedding_column(tf.feature_column.categorical_column_with_vocabulary_list('Wetterlage', vocabulary_list=['Gut', 'Schnee' 'Andere', 'Regen (starker Wind)', 'Unbekannt', 'Gut (starker Wind)', 'Regen']), 3),
 ]
 
 #################### Train data
@@ -132,15 +123,16 @@ training_input_fn = tf.estimator.inputs.pandas_input_fn(x=train_x, y=train_y, ba
 # shuffle=False -> do not randomize input data
 eval_input_fn = tf.estimator.inputs.pandas_input_fn(x=train_x, y=train_y, batch_size=64, shuffle=False)
 
-model = tf.estimator.LinearRegressor(feature_columns=feature_columns, model_dir="./model")
-
+#model = tf.estimator.LinearRegressor(feature_columns=feature_columns, model_dir="./model")
+model = tf.estimator.DNNRegressor(hidden_units=[50,30,10], feature_columns=feature_columns,
+                                      model_dir="./model")
 
 
 
 ######################################## Train Model ########################################
 
 ############## Train
-model.train(input_fn=training_input_fn, steps=20000)
+model.train(input_fn=training_input_fn, steps=500000)
 
 ############## Evaluate
 # Evaluate how the model performs on data it has not yet seen.
@@ -156,7 +148,7 @@ print("\nRMS error for the test set: ", average_loss)
 
 ######################################## Prediction ##########################################
 
-df = train_x[:3]
+df = train_x.loc[[2]]
 
 print(df)
 predict_input_fn = tf.estimator.inputs.pandas_input_fn(x=df, shuffle=False)
