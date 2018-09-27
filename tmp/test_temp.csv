@@ -1,0 +1,1001 @@
+Strassenklasse,Alter,Unfallklasse,Lichtverhältnisse,Verletzte Personen,Anzahl Fahrzeuge,Bodenbeschaffenheit,Geschlecht,Zeit (24h),Fahrzeugtyp,Wetterlage
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1100,Auto,Gut
+Bundesstrasse,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,1710,Auto,Gut
+nicht klassifiziert,63,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1500,Bus,Gut
+nicht klassifiziert,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1745,Auto,Gut
+Bundesstrasse,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1900,Auto,Gut
+nicht klassifiziert,9,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1110,Fahrrad,Gut
+Landesstrasse,27,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,1705,Auto,Andere
+nicht klassifiziert,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,2114,Taxi,Gut
+nicht klassifiziert,24,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1430,Auto,Gut
+nicht klassifiziert,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,2330,Auto,Gut
+Bundesstrasse,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und nicht beleuchtet,1,2,nass / feucht,männlich,2042,Mottorrad (50cc),Gut
+Bundesstrasse,17,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1600,Auto,Gut
+Kraftfahrzeugstrasse,39,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1250,Auto,Gut
+Bundesstrasse,25,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,3,trocken,männlich,1730,Auto,Gut
+nicht klassifiziert,18,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,1,trocken,weiblich,2145,Auto,Gut
+Bundesstrasse,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1340,Taxi,Gut
+Bundesstrasse,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,3,trocken,weiblich,1605,Auto,Gut
+nicht klassifiziert,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1635,Fahrrad,Gut
+Bundesstrasse,40,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,2,trocken,männlich,1755,Fahrrad,Gut
+Bundesstrasse,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1020,Auto,Gut
+nicht klassifiziert,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1345,Auto,Regen
+nicht klassifiziert,11,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1907,Fahrrad,Gut
+nicht klassifiziert,22,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2145,Auto,Gut
+nicht klassifiziert,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,2,nass / feucht,männlich,2350,Taxi,Gut
+nicht klassifiziert,54,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1350,Auto,Gut
+Autobahn,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,männlich,1644,Auto,Gut
+Bundesstrasse,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1100,Auto,Gut
+Bundesstrasse,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1111,Auto,Gut
+Autobahn,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1600,Auto,Gut
+nicht klassifiziert,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1915,Fahrrad,Gut
+Bundesstrasse,69,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,945,Auto,Gut
+nicht klassifiziert,24,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1715,Auto,Gut
+nicht klassifiziert,65,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1430,Auto,Gut
+nicht klassifiziert,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1600,Auto,Gut
+Bundesstrasse,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1015,Auto,Gut
+Bundesstrasse,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1700,Auto,Gut
+nicht klassifiziert,43,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1110,Auto,Gut
+Bundesstrasse,12,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1500,Auto,Gut
+nicht klassifiziert,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1445,Auto,Gut
+Bundesstrasse,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1634,Auto,Gut
+Bundesstrasse,84,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1407,Bus,Gut
+Bundesstrasse,18,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,trocken,männlich,2140,Auto,Gut
+Landesstrasse,23,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,3,trocken,männlich,2240,Auto,Gut
+Bundesstrasse,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,840,Fahrrad,Gut
+Bundesstrasse,1,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,nass / feucht,männlich,1844,Auto,Gut
+nicht klassifiziert,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1700,Mottorrad,Gut
+nicht klassifiziert,10,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1930,Auto,Gut
+nicht klassifiziert,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1530,Auto,Gut
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,610,Mottorrad (50cc),Gut
+Landesstrasse,2,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1710,Bus,Gut
+nicht klassifiziert,12,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1500,Fahrrad,Gut
+Autobahn,27,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,weiblich,1151,Auto,Gut
+nicht klassifiziert,24,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,345,Auto,Gut
+nicht klassifiziert,16,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1230,Auto,Gut
+nicht klassifiziert,12,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1555,Fahrrad,Gut
+Bundesstrasse,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1645,Auto,Gut
+Bundesstrasse,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,810,Auto,Gut
+nicht klassifiziert,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1000,Auto,Gut
+Bundesstrasse,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1425,Auto,Gut
+nicht klassifiziert,12,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1654,Auto,Gut
+nicht klassifiziert,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1320,Auto,Gut
+Kraftfahrzeugstrasse,28,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,1705,Kleinbus,Gut
+nicht klassifiziert,14,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,6,1,trocken,weiblich,1425,Bus,Gut
+nicht klassifiziert,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1217,Auto,Gut
+nicht klassifiziert,47,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1845,Auto,Gut
+Kraftfahrzeugstrasse,53,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,4,trocken,männlich,630,Transporter,Gut (starker Wind)
+nicht klassifiziert,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,910,Auto,Regen
+Bundesstrasse,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1800,Auto,Gut
+Bundesstrasse,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,820,Auto,Gut
+nicht klassifiziert,2,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,4,trocken,weiblich,1958,Auto,Gut
+Bundesstrasse,55,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1350,Auto,Gut
+nicht klassifiziert,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1335,Transporter,Gut
+nicht klassifiziert,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1740,Mottorrad (500cc),Gut
+Bundesstrasse,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1100,Auto,Gut
+Autobahn,13,Passagier,Dunkelheit: keine Strassenbeleuchtung,3,1,trocken,weiblich,1825,Auto,Gut
+Bundesstrasse,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1550,Fahrrad,Gut
+Bundesstrasse,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1505,Auto,Regen
+Bundesstrasse,29,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1700,Mottorrad (500cc),Gut
+Kraftfahrzeugstrasse,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,6,trocken,männlich,841,Auto,Gut
+nicht klassifiziert,81,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1130,Auto,Regen
+Landesstrasse,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,805,Fahrrad,Gut
+Bundesstrasse,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,755,Auto,Regen (starker Wind)
+nicht klassifiziert,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,300,Taxi,Gut
+Bundesstrasse,47,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1112,Auto,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1441,Mottorrad (500cc),Gut
+Landesstrasse,53,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1615,Bus,Gut
+nicht klassifiziert,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,4,trocken,männlich,1613,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,900,Auto,Gut
+Bundesstrasse,43,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,2,trocken,weiblich,2044,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1555,Fahrrad,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1930,Auto,Regen
+nicht klassifiziert,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1800,Auto,Gut
+nicht klassifiziert,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1150,Auto,Gut
+nicht klassifiziert,35,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2245,Taxi,Gut
+Autobahn,36,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1332,Auto,Gut
+nicht klassifiziert,34,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,130,Auto,Gut
+Bundesstrasse,35,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,1915,Auto,Gut
+nicht klassifiziert,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,7,1,trocken,männlich,1315,Bus,Gut
+nicht klassifiziert,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1505,Auto,Gut
+nicht klassifiziert,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,130,Fahrrad,Gut
+nicht klassifiziert,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1515,Andere,Gut
+nicht klassifiziert,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1620,Bus,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1303,Auto,Gut
+nicht klassifiziert,66,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1110,Auto,Gut
+nicht klassifiziert,57,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2300,Taxi,Gut
+nicht klassifiziert,14,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1800,Transporter,Gut
+nicht klassifiziert,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut
+Bundesstrasse,68,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1105,Auto,Gut
+Landesstrasse,30,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,3,trocken,männlich,2025,Auto,Gut
+nicht klassifiziert,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2030,Mottorrad (500cc),Gut
+Bundesstrasse,28,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1810,Auto,Gut
+nicht klassifiziert,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2305,Fahrrad,Gut
+nicht klassifiziert,17,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1753,Fahrrad,Gut
+nicht klassifiziert,18,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,2,trocken,männlich,2122,Auto,Gut
+nicht klassifiziert,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1000,Transporter,Gut
+nicht klassifiziert,37,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,4,trocken,männlich,1816,Auto,Gut
+nicht klassifiziert,65,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1910,Auto,Gut
+nicht klassifiziert,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1245,Transporter,Gut
+nicht klassifiziert,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1415,Auto,Gut
+Bundesstrasse,75,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1630,Auto,Gut
+Bundesstrasse,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,Frost / Eis,weiblich,805,Auto,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Auto,Gut
+Bundesstrasse,45,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2308,Bus,Gut
+Bundesstrasse,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1050,Auto,Gut
+Bundesstrasse,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,801,Transporter,Gut
+Landesstrasse,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1710,Mottorrad (500cc),Gut
+nicht klassifiziert,25,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,Frost / Eis,weiblich,335,Taxi,Gut
+Autobahn,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2300,Auto,Gut
+Bundesstrasse,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2120,Auto,Gut
+Autobahn,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1540,Auto,Gut
+nicht klassifiziert,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1715,Mottorrad (50cc),Gut
+nicht klassifiziert,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1545,Bus,Gut
+Bundesstrasse,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1245,Auto,Gut
+Bundesstrasse,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1110,Auto,Gut
+Landesstrasse,4,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1835,Fahrrad,Gut
+nicht klassifiziert,17,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1800,Auto,Gut
+nicht klassifiziert,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1800,Auto,Gut
+Bundesstrasse,64,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1655,Auto,Gut
+Bundesstrasse,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,950,LKW bis 7.5t,Gut (starker Wind)
+nicht klassifiziert,32,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1715,Fahrrad,Gut
+Bundesstrasse,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,735,Fahrrad,Gut
+nicht klassifiziert,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1425,Auto,Gut
+nicht klassifiziert,21,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,805,Auto,Gut
+nicht klassifiziert,69,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1711,Auto,Gut
+Kraftfahrzeugstrasse,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1210,Auto,Gut
+nicht klassifiziert,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1520,Auto,Gut
+Bundesstrasse,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1320,Auto,Gut
+nicht klassifiziert,12,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,Überflutung,weiblich,1540,Auto,Gut
+nicht klassifiziert,2,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1440,Auto,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1000,Transporter,Gut
+nicht klassifiziert,56,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1745,Auto,Gut
+Bundesstrasse,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,900,Auto,Regen
+Bundesstrasse,23,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,3,4,trocken,männlich,2318,Auto,Gut
+nicht klassifiziert,11,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,750,Auto,Gut
+Bundesstrasse,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,2030,Auto,Gut
+Landesstrasse,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,2030,Auto,Gut
+Bundesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1630,Transporter,Gut
+nicht klassifiziert,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1400,Bus,Gut
+Bundesstrasse,45,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,51,Auto,Andere
+nicht klassifiziert,19,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2330,Auto,Gut
+Autobahn,31,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,12,1,trocken,männlich,1350,Kleinbus,Gut
+Bundesstrasse,58,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,930,Auto,Gut
+nicht klassifiziert,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,weiblich,740,Auto,Gut
+nicht klassifiziert,21,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,405,Auto,Regen
+Bundesstrasse,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2156,Mottorrad (125cc),Gut
+Bundesstrasse,57,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1545,Auto,Gut
+nicht klassifiziert,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1530,Auto,Gut
+nicht klassifiziert,43,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,Frost/ Ice,männlich,645,Auto,Gut
+nicht klassifiziert,20,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2210,Auto,Regen
+nicht klassifiziert,77,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1500,Auto,Gut
+Bundesstrasse,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,nass / feucht,weiblich,1215,Auto,Regen
+Autobahn,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1725,Auto,Gut
+Bundesstrasse,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1440,Auto,Gut
+nicht klassifiziert,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1200,Auto,Gut
+nicht klassifiziert,1,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,nass / feucht,weiblich,1624,Auto,Gut
+Bundesstrasse,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,Schnee,männlich,830,Bus,Schnee
+Bundesstrasse,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1600,Auto,Gut
+nicht klassifiziert,27,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,trocken,weiblich,58,Fahrrad,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,935,Auto,Gut
+Bundesstrasse,4,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1710,Auto,Gut
+nicht klassifiziert,22,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,1,nass / feucht,weiblich,2123,Auto,Regen
+nicht klassifiziert,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1915,Auto,Gut
+Landesstrasse,86,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1043,Auto,Gut
+Bundesstrasse,64,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,2024,Auto,Gut
+Bundesstrasse,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,2030,Fahrrad,Regen
+nicht klassifiziert,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1810,Fahrrad,Unbekannt
+Bundesstrasse,66,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1030,Bus,Gut
+nicht klassifiziert,21,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1830,Auto,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1143,Mottorrad,Gut
+nicht klassifiziert,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1905,Fahrrad,Gut
+nicht klassifiziert,91,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1315,Auto,Gut
+nicht klassifiziert,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,2005,Auto,Gut
+nicht klassifiziert,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,815,Fahrrad,Gut
+Kraftfahrzeugstrasse,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1425,Auto,Gut
+nicht klassifiziert,38,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1850,Auto,Gut
+Bundesstrasse,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,2054,Mottorrad (125cc),Gut
+Bundesstrasse,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,940,Auto,Gut
+nicht klassifiziert,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,1110,Fahrrad,Gut
+nicht klassifiziert,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1457,Bus,Gut
+Bundesstrasse,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1715,Mottorrad (500cc),Gut
+Landesstrasse,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1114,Auto,Gut
+nicht klassifiziert,4,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,2010,Auto,Gut
+nicht klassifiziert,23,Fahrer,Dunkelheit: keine Strassenbeleuchtung,4,2,nass / feucht,männlich,2125,Auto,Gut
+nicht klassifiziert,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1430,Auto,Gut
+nicht klassifiziert,68,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1457,Auto,Gut
+nicht klassifiziert,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1457,Mottorrad (50cc),Gut
+Autobahn,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,745,Auto,Regen
+Autobahn,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Schnee,weiblich,640,Auto,Schnee
+nicht klassifiziert,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2245,Auto,Gut
+Kraftfahrzeugstrasse,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2332,Auto,Gut
+Bundesstrasse,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1250,Auto,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,820,Mottorrad (500cc),Gut
+nicht klassifiziert,3,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,weiblich,1535,Auto,Gut
+Bundesstrasse,62,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,900,Auto,Gut
+Bundesstrasse,83,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1225,Auto,Gut
+Bundesstrasse,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,3,nass / feucht,männlich,2350,Auto,Regen
+Bundesstrasse,45,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,5,Auto,Gut
+Bundesstrasse,18,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,weiblich,1515,Auto,Gut
+Bundesstrasse,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,830,Bus,Gut
+Landesstrasse,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1156,Auto,Gut
+Kraftfahrzeugstrasse,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1552,Auto,Gut
+nicht klassifiziert,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,2,nass / feucht,männlich,25,Auto,Gut
+Autobahn,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,1030,Transporter,Gut
+Bundesstrasse,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,230,Taxi,Gut
+nicht klassifiziert,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1500,Auto,Gut
+nicht klassifiziert,48,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1530,Auto,Gut
+Bundesstrasse,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1400,Auto,Gut
+Bundesstrasse,22,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1733,Mottorrad (50cc),Gut
+Autobahn,25,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,920,Taxi,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1526,Fahrrad,Gut
+Bundesstrasse,75,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,907,Bus,Gut
+nicht klassifiziert,11,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1525,Fahrrad,Gut
+Bundesstrasse,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,730,Auto,Gut
+nicht klassifiziert,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,2255,Auto,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,745,Fahrrad,Gut
+Autobahn,41,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,2,trocken,männlich,2003,Auto,Gut
+nicht klassifiziert,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1715,Auto,Gut
+Bundesstrasse,5,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1608,Auto,Gut
+nicht klassifiziert,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1850,Auto,Gut
+nicht klassifiziert,0,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1110,Bus,Gut
+Bundesstrasse,62,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1225,Auto,Gut
+Landesstrasse,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1330,Auto,Gut
+nicht klassifiziert,25,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,2,1,trocken,weiblich,510,Taxi,Gut
+Bundesstrasse,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,nass / feucht,männlich,1952,Auto,Regen
+nicht klassifiziert,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,4,trocken,männlich,1430,Transporter,Gut
+Landesstrasse,38,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,40,Auto,Gut
+Bundesstrasse,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1025,Auto,Gut
+Bundesstrasse,66,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,männlich,1115,Auto,Gut
+Bundesstrasse,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1415,Auto,Gut
+Bundesstrasse,46,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,130,Taxi,Gut
+nicht klassifiziert,18,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,2050,Auto,Gut
+nicht klassifiziert,37,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1620,Auto,Gut
+Bundesstrasse,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,830,Fahrrad,Gut
+nicht klassifiziert,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1500,Auto,Gut
+nicht klassifiziert,52,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,26,Taxi,Gut
+nicht klassifiziert,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,926,Mottorrad (125cc),Gut
+Bundesstrasse,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,445,Transporter,Gut
+Landesstrasse,26,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1701,Auto,Gut
+nicht klassifiziert,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,940,Auto,Gut
+Bundesstrasse,17,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,nass / feucht,männlich,1715,Auto,Regen
+nicht klassifiziert,31,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1645,Auto,Gut
+nicht klassifiziert,58,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,1945,Auto,Gut
+Bundesstrasse,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1900,Auto,Gut
+nicht klassifiziert,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1130,Auto,Regen
+Bundesstrasse,48,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,2120,Auto,Gut (starker Wind)
+Bundesstrasse,71,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1015,Fahrrad,Gut
+Bundesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1820,Auto,Gut
+nicht klassifiziert,41,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2005,Fahrrad,Gut
+nicht klassifiziert,40,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,weiblich,740,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,4,trocken,männlich,940,Auto,Gut
+nicht klassifiziert,49,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,522,Fahrrad,Gut
+Bundesstrasse,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1430,Auto,Gut
+nicht klassifiziert,29,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1815,Mottorrad (500cc),Gut
+nicht klassifiziert,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1105,Auto,Gut
+nicht klassifiziert,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1035,Fahrrad,Gut
+Autobahn,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1707,Auto,Gut
+nicht klassifiziert,37,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,8,2,trocken,weiblich,1215,Bus,Gut
+Bundesstrasse,67,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1535,Taxi,Gut
+Bundesstrasse,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,740,Mottorrad (500cc),Gut
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,550,Auto,Gut
+nicht klassifiziert,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1923,Auto,Gut
+Bundesstrasse,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1810,Auto,Gut
+Bundesstrasse,27,Fahrer,Dunkelheit: keine Strassenbeleuchtung,5,3,nass / feucht,weiblich,1830,Auto,Gut
+nicht klassifiziert,23,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,30,Auto,Gut
+Autobahn,24,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1730,Auto,Gut
+nicht klassifiziert,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,755,Auto,Gut
+Bundesstrasse,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,930,Auto,Gut
+nicht klassifiziert,25,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1255,Andere,Gut
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,959,Auto,Gut
+nicht klassifiziert,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,900,Auto,Gut
+Bundesstrasse,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1605,Mottorrad,Gut
+Bundesstrasse,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1615,Auto,Gut
+nicht klassifiziert,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1430,Mottorrad,Gut
+nicht klassifiziert,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1255,Mottorrad (50cc),Gut
+Autobahn,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,4,nass / feucht,weiblich,810,Auto,Regen
+Bundesstrasse,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2248,Andere,Gut
+nicht klassifiziert,21,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,1,trocken,männlich,2250,Auto,Gut
+nicht klassifiziert,19,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1300,Mottorrad (125cc),Gut
+nicht klassifiziert,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1515,Bus,Gut
+Bundesstrasse,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1535,Auto,Gut
+nicht klassifiziert,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,nass / feucht,männlich,750,Mottorrad (50cc),Regen
+Bundesstrasse,38,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1426,Auto,Gut
+nicht klassifiziert,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1006,Mottorrad (50cc),Gut
+nicht klassifiziert,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,936,Auto,Gut
+nicht klassifiziert,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1140,Auto,Gut
+nicht klassifiziert,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1210,Auto,Gut
+Bundesstrasse,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Auto,Gut
+nicht klassifiziert,71,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1340,Auto,Gut
+nicht klassifiziert,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1021,Fahrrad,Gut
+nicht klassifiziert,45,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2255,Bus,Gut
+nicht klassifiziert,38,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,2000,Auto,Gut
+nicht klassifiziert,85,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1335,Bus,Gut
+Bundesstrasse,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1815,Auto,Gut
+Autobahn,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,820,Auto,Gut
+Landesstrasse,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1800,Auto,Gut
+Bundesstrasse,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1440,Auto,Gut
+Bundesstrasse,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,6,2,trocken,weiblich,1520,Auto,Gut
+nicht klassifiziert,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1703,Auto,Gut
+Bundesstrasse,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1550,Bus,Gut
+nicht klassifiziert,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,655,Auto,Gut
+nicht klassifiziert,21,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,1,nass / feucht,weiblich,109,Auto,Gut
+Bundesstrasse,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1430,Auto,Regen
+nicht klassifiziert,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1300,Mottorrad (50cc),Gut
+nicht klassifiziert,84,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1100,Kleinbus,Gut
+nicht klassifiziert,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1610,Bus,Gut
+nicht klassifiziert,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2042,Auto,Gut
+Bundesstrasse,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,645,Auto,Gut
+nicht klassifiziert,5,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1910,Fahrrad,Gut
+Bundesstrasse,32,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,3,nass / feucht,männlich,2350,Auto,Regen
+nicht klassifiziert,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,605,Auto,Gut
+nicht klassifiziert,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,Schnee,weiblich,1015,Auto,Schnee
+Landesstrasse,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1915,Auto,Gut
+nicht klassifiziert,40,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1430,Bus,Gut
+Landesstrasse,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1452,Bus,Gut
+Bundesstrasse,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1735,Auto,Gut
+nicht klassifiziert,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1210,Bus,Gut
+nicht klassifiziert,6,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1825,Auto,Gut
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1030,Fahrrad,Gut
+Bundesstrasse,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,850,Auto,Gut
+Bundesstrasse,14,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,840,Auto,Regen
+nicht klassifiziert,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,945,Auto,Gut
+nicht klassifiziert,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,Schnee,männlich,1052,Transporter,Gut
+Bundesstrasse,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1315,Auto,Gut
+nicht klassifiziert,17,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1910,Auto,Gut
+Bundesstrasse,45,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1705,Auto,Gut
+nicht klassifiziert,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Auto,Gut
+nicht klassifiziert,48,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,500,Fahrrad,Gut
+nicht klassifiziert,66,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,842,Auto,Gut
+Landesstrasse,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1857,Mottorrad (125cc),Gut
+nicht klassifiziert,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1859,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1835,LKW bis 7.5t,Gut
+Kraftfahrzeugstrasse,66,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,trocken,weiblich,200,Auto,Gut
+nicht klassifiziert,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1731,Fahrrad,Unbekannt
+nicht klassifiziert,17,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,2,trocken,männlich,2122,Auto,Gut
+Bundesstrasse,53,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1056,Kleinbus,Gut
+Bundesstrasse,12,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,7,2,trocken,weiblich,1740,Auto,Gut
+Landesstrasse,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,2057,Auto,Regen
+Bundesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1315,Auto,Gut
+Bundesstrasse,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1315,Auto,Gut
+Landesstrasse,37,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1830,Auto,Gut
+nicht klassifiziert,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,Frost / Eis,männlich,945,Auto,Gut
+nicht klassifiziert,46,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,7,1,trocken,weiblich,1315,Bus,Gut
+Bundesstrasse,11,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,3,trocken,weiblich,1300,Auto,Gut
+Bundesstrasse,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1815,Fahrrad,Gut
+nicht klassifiziert,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,930,Fahrrad,Gut
+nicht klassifiziert,60,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1855,Auto,Gut
+nicht klassifiziert,21,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1315,LKW bis 7.5t,Gut
+Landesstrasse,61,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,1905,Auto,Gut
+nicht klassifiziert,32,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,5,3,trocken,weiblich,2020,Auto,Gut
+Bundesstrasse,27,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,2030,Auto,Gut
+Bundesstrasse,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut
+nicht klassifiziert,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1105,Fahrrad,Gut
+Kraftfahrzeugstrasse,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,2035,Auto,Gut
+nicht klassifiziert,57,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1150,Bus,Gut
+nicht klassifiziert,44,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2140,Auto,Gut
+nicht klassifiziert,3,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1506,Auto,Gut
+nicht klassifiziert,32,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1330,Transporter,Gut
+Bundesstrasse,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,3,nass / feucht,weiblich,1155,Auto,Regen
+nicht klassifiziert,6,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,854,Auto,Gut
+Bundesstrasse,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,1500,Auto,Gut
+Bundesstrasse,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1725,Auto,Gut
+nicht klassifiziert,66,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1215,Auto,Gut
+nicht klassifiziert,79,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,845,Auto,Gut
+Bundesstrasse,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,744,Mottorrad (50cc),Gut
+nicht klassifiziert,3,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1512,Auto,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1445,Auto,Gut
+nicht klassifiziert,17,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2237,Mottorrad (500cc),Gut
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1308,Fahrrad,Gut
+Bundesstrasse,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,359,Auto,Gut
+nicht klassifiziert,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1714,Auto,Gut
+Bundesstrasse,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,weiblich,1053,Taxi,Regen
+nicht klassifiziert,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1915,Auto,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1600,Fahrrad,Gut
+Bundesstrasse,16,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1035,Auto,Gut
+nicht klassifiziert,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1250,Auto,Gut
+nicht klassifiziert,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1535,Bus,Gut
+Bundesstrasse,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1935,Auto,Regen
+Bundesstrasse,10,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1148,Auto,Gut
+nicht klassifiziert,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,2027,Auto,Gut
+nicht klassifiziert,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1245,Auto,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,852,Auto,Gut
+nicht klassifiziert,89,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1325,Auto,Gut
+Bundesstrasse,24,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2315,Auto,Gut
+Bundesstrasse,13,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1030,Auto,Gut
+Bundesstrasse,46,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2016,Fahrrad,Gut
+Bundesstrasse,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,weiblich,1745,Auto,Gut
+nicht klassifiziert,36,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,4,trocken,weiblich,1315,Auto,Gut
+Bundesstrasse,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,735,Auto,Gut
+nicht klassifiziert,57,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1340,Auto,Gut
+nicht klassifiziert,35,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,8,2,trocken,weiblich,1215,Bus,Gut
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,845,Fahrrad,Regen
+Bundesstrasse,20,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,25,Taxi,Gut
+nicht klassifiziert,22,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,nass / feucht,weiblich,1930,Auto,Regen
+nicht klassifiziert,45,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1916,Auto,Gut
+Bundesstrasse,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,800,Mottorrad (50cc),Regen
+Bundesstrasse,20,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,230,Auto,Gut
+Bundesstrasse,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1110,Mottorrad (125cc),Regen
+nicht klassifiziert,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1300,Fahrrad,Gut
+Autobahn,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,854,Auto,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1020,Auto,Gut
+Bundesstrasse,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1505,Auto,Gut
+nicht klassifiziert,49,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1353,Bus,Unbekannt
+nicht klassifiziert,31,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1656,Auto,Gut
+Bundesstrasse,73,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1047,Auto,Gut
+Kraftfahrzeugstrasse,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,1935,Auto,Gut
+nicht klassifiziert,47,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,935,Bus,Gut
+Bundesstrasse,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1015,Mottorrad (500cc),Gut
+Bundesstrasse,43,Passagier,Dunkelheit: keine Strassenbeleuchtung,2,2,trocken,weiblich,2017,Mottorrad (500cc),Gut
+nicht klassifiziert,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,35,Taxi,Gut
+nicht klassifiziert,56,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2005,Auto,Gut
+Bundesstrasse,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,735,Auto,Gut
+nicht klassifiziert,58,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1840,Auto,Regen
+nicht klassifiziert,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1541,Mottorrad (50cc),Gut
+Bundesstrasse,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,725,Fahrrad,Gut
+Kraftfahrzeugstrasse,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,732,Auto,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1700,Mottorrad,Gut
+Bundesstrasse,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1505,Auto,Gut
+nicht klassifiziert,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,1,trocken,männlich,1945,Auto,Gut
+Bundesstrasse,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,938,Taxi,Gut
+nicht klassifiziert,7,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,1955,Auto,Regen
+nicht klassifiziert,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,820,Mottorrad (50cc),Gut
+nicht klassifiziert,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,Frost/ Ice,männlich,845,Transporter,Gut
+Bundesstrasse,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1645,Transporter,Gut
+nicht klassifiziert,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2035,Auto,Gut
+nicht klassifiziert,71,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1616,Bus,Gut
+nicht klassifiziert,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,trocken,weiblich,1625,Auto,Gut
+Landesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1045,Auto,Regen
+nicht klassifiziert,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1150,Mottorrad (50cc),Gut
+nicht klassifiziert,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2210,Auto,Gut
+Bundesstrasse,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,905,Fahrrad,Gut
+Bundesstrasse,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,810,Auto,Gut
+nicht klassifiziert,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1330,Fahrrad,Gut
+nicht klassifiziert,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1658,Auto,Gut
+nicht klassifiziert,1,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1935,Auto,Gut
+Bundesstrasse,68,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,945,Auto,Gut
+Bundesstrasse,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1600,Mottorrad (125cc),Gut
+Bundesstrasse,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,2110,Auto,Regen
+nicht klassifiziert,9,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1720,Auto,Gut
+nicht klassifiziert,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1340,Auto,Gut
+unbefestigte Strasse,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,7,3,trocken,männlich,1831,Auto,Gut
+nicht klassifiziert,57,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1100,Auto,Gut
+Landesstrasse,34,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2255,Auto,Gut
+Bundesstrasse,39,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1738,Mottorrad (500cc),Gut
+Bundesstrasse,58,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,weiblich,1455,Auto,Gut
+Bundesstrasse,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,936,Auto,Gut
+nicht klassifiziert,50,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1125,Bus,Gut
+nicht klassifiziert,71,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,939,Auto,Regen
+Bundesstrasse,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,1335,Auto,Regen
+Autobahn,44,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,15,Auto,Andere
+Bundesstrasse,81,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1510,Auto,Regen
+Bundesstrasse,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1415,Fahrrad,Gut
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1530,Auto,Gut
+Bundesstrasse,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,nass / feucht,männlich,35,Auto,Regen
+nicht klassifiziert,93,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1700,Auto,Gut
+nicht klassifiziert,83,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1030,Transporter,Gut
+nicht klassifiziert,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1340,Auto,Gut
+nicht klassifiziert,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1035,Transporter,Gut
+nicht klassifiziert,16,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,720,Mottorrad,Gut
+Autobahn,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1800,Auto,Gut
+nicht klassifiziert,48,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1905,Auto,Gut
+Landesstrasse,22,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1223,Auto,Regen
+nicht klassifiziert,14,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,830,Auto,Regen
+Bundesstrasse,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,845,Mottorrad (50cc),Regen
+Autobahn,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,608,Auto,Gut
+Bundesstrasse,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1325,Auto,Gut
+nicht klassifiziert,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,2220,Taxi,Gut
+nicht klassifiziert,19,Fahrer,Dunkelheit: keine Strassenbeleuchtung,3,2,nass / feucht,männlich,1640,Auto,Gut
+Bundesstrasse,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1515,Mottorrad (500cc),Gut
+Bundesstrasse,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1740,Fahrrad,Gut
+nicht klassifiziert,77,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,2010,Auto,Gut
+Kraftfahrzeugstrasse,61,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,1,trocken,weiblich,1515,Auto,Gut
+Autobahn,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,1,nass / feucht,weiblich,430,Auto,Gut
+nicht klassifiziert,74,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2050,Auto,Gut
+Bundesstrasse,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Frost / Eis,männlich,20,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1815,Fahrrad,Regen
+Landesstrasse,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,820,Fahrrad,Gut
+nicht klassifiziert,31,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1140,Auto,Gut
+Bundesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1310,Auto,Gut
+Bundesstrasse,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1535,Auto,Gut
+Kraftfahrzeugstrasse,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,556,Auto,Gut
+Autobahn,36,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1236,Auto,Regen
+Autobahn,40,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1815,Auto,Gut
+Bundesstrasse,35,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1837,Auto,Gut
+nicht klassifiziert,81,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,4,trocken,weiblich,1853,Auto,Gut
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,nass / feucht,weiblich,500,Auto,Regen
+Autobahn,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,12,1,trocken,männlich,1350,Kleinbus,Gut
+nicht klassifiziert,62,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,2200,Auto,Gut
+Bundesstrasse,62,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,1940,Auto,Gut
+Bundesstrasse,58,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,850,Auto,Gut
+nicht klassifiziert,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,4,2,trocken,weiblich,1914,Auto,Gut
+Bundesstrasse,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1238,Auto,Gut
+nicht klassifiziert,11,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1850,Auto,Gut
+Landesstrasse,35,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,1,nass / feucht,männlich,1351,Auto,Gut
+Bundesstrasse,34,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,1,trocken,männlich,155,Auto,Gut
+nicht klassifiziert,37,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1355,Taxi,Gut
+nicht klassifiziert,24,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,730,Auto,Gut
+Bundesstrasse,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1255,Bus,Gut
+Bundesstrasse,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,nass / feucht,weiblich,1000,Auto,Regen
+Bundesstrasse,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1750,Mottorrad (500cc),Gut
+nicht klassifiziert,87,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1245,Bus,Gut
+nicht klassifiziert,77,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1340,Auto,Gut
+Bundesstrasse,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1111,Auto,Gut
+nicht klassifiziert,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,weiblich,1518,Auto,Gut
+nicht klassifiziert,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1721,Auto,Gut
+Bundesstrasse,89,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1255,Auto,Gut
+Bundesstrasse,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1445,Mottorrad (500cc),Gut
+nicht klassifiziert,41,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,500,Fahrrad,Gut
+nicht klassifiziert,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,930,Auto,Gut
+nicht klassifiziert,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1250,Auto,Gut
+Bundesstrasse,36,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,4,trocken,männlich,1240,Transporter,Gut
+nicht klassifiziert,8,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Auto,Gut
+nicht klassifiziert,85,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1430,Transporter,Gut
+Bundesstrasse,77,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1740,Auto,Gut
+nicht klassifiziert,12,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,1640,Auto,Gut
+Bundesstrasse,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1245,Andere,Gut
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,nass / feucht,männlich,1845,Auto,Gut
+Landesstrasse,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1715,Auto,Gut
+nicht klassifiziert,45,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,949,Auto,Gut
+nicht klassifiziert,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1622,Transporter,Gut
+nicht klassifiziert,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1305,Auto,Gut
+nicht klassifiziert,68,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1817,Taxi,Gut
+nicht klassifiziert,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,weiblich,2245,Taxi,Gut
+nicht klassifiziert,27,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2150,Auto,Gut
+Bundesstrasse,52,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1910,Fahrrad,Gut (starker Wind)
+Bundesstrasse,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1815,Fahrrad,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1415,Auto,Gut
+nicht klassifiziert,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1740,Auto,Gut
+nicht klassifiziert,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1620,Auto,Gut
+nicht klassifiziert,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,nass / feucht,weiblich,1300,Auto,Regen
+Landesstrasse,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,2140,Auto,Gut
+Bundesstrasse,69,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1147,Auto,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,6,7,trocken,weiblich,1550,Auto,Gut
+nicht klassifiziert,30,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1120,Auto,Gut
+nicht klassifiziert,5,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1610,Auto,Gut
+Bundesstrasse,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2250,Auto,Gut
+Bundesstrasse,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,830,Mottorrad (500cc),Gut
+Bundesstrasse,5,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,Frost/ Ice,weiblich,1448,Auto,Gut
+nicht klassifiziert,42,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1355,Bus,Gut
+nicht klassifiziert,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1730,Auto,Gut
+nicht klassifiziert,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1540,Auto,Gut
+nicht klassifiziert,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,trocken,männlich,345,Auto,Gut
+nicht klassifiziert,74,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,2145,Taxi,Gut
+nicht klassifiziert,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2245,Auto,Gut
+Kraftfahrzeugstrasse,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2130,Auto,Gut
+Autobahn,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,1,nass / feucht,männlich,1420,Auto,Regen
+nicht klassifiziert,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,2040,Taxi,Gut
+Autobahn,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,weiblich,1320,Auto,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,840,LKW ab 7.5t,Gut
+Landesstrasse,24,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1140,Auto,Regen (starker Wind)
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1400,Auto,Gut
+Bundesstrasse,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,950,Auto,Gut
+nicht klassifiziert,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,3,nass / feucht,männlich,1840,Auto,Gut
+nicht klassifiziert,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1000,Auto,Gut
+nicht klassifiziert,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1158,Fahrrad,Regen
+nicht klassifiziert,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1255,Mottorrad (500cc),Gut
+Bundesstrasse,27,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,trocken,männlich,2150,Auto,Gut
+Bundesstrasse,64,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,Frost/ Ice,weiblich,1155,Auto,Gut
+Bundesstrasse,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,1,nass / feucht,männlich,1715,Auto,Gut
+nicht klassifiziert,37,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,1,trocken,männlich,1320,Bus,Gut
+nicht klassifiziert,67,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1600,Auto,Gut
+nicht klassifiziert,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1610,Auto,Gut
+nicht klassifiziert,51,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2220,Auto,Gut
+nicht klassifiziert,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1125,Auto,Gut
+Bundesstrasse,14,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1617,Auto,Gut
+Bundesstrasse,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,trocken,männlich,2134,Auto,Gut
+Bundesstrasse,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,938,Auto,Gut
+nicht klassifiziert,62,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,845,Transporter,Gut
+Bundesstrasse,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1515,Auto,Gut (starker Wind)
+Bundesstrasse,83,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1028,Transporter,Gut
+Landesstrasse,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1910,Auto,Gut
+nicht klassifiziert,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,805,Fahrrad,Gut
+nicht klassifiziert,37,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,2120,Auto,Gut
+Bundesstrasse,57,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,730,Auto,Gut
+Autobahn,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1420,Auto,Gut
+nicht klassifiziert,49,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1555,Bus,Gut
+nicht klassifiziert,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1250,Auto,Gut
+nicht klassifiziert,26,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,weiblich,1720,Auto,Regen
+nicht klassifiziert,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1010,Transporter,Gut
+nicht klassifiziert,27,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,Frost / Eis,weiblich,2110,Auto,Gut
+nicht klassifiziert,15,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,835,Auto,Gut
+nicht klassifiziert,57,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,150,Auto,Gut
+nicht klassifiziert,82,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1040,Bus,Gut
+Bundesstrasse,49,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,Frost / Eis,männlich,713,Transporter,Gut
+nicht klassifiziert,76,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1040,Auto,Regen
+Landesstrasse,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,1637,Auto,Regen (starker Wind)
+nicht klassifiziert,38,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2035,Auto,Gut
+Bundesstrasse,1,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1327,Auto,Gut
+nicht klassifiziert,25,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,745,Bus,Gut
+Landesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1350,Auto,Gut
+Landesstrasse,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1256,Mottorrad (500cc),Gut
+Landesstrasse,31,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1830,Auto,Gut
+Landesstrasse,50,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1210,Bus,Gut
+nicht klassifiziert,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Auto,Gut
+Bundesstrasse,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1918,Auto,Gut
+Landesstrasse,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1540,Transporter,Gut
+Bundesstrasse,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1855,Auto,Gut
+Bundesstrasse,55,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1350,Bus,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1500,Auto,Gut
+nicht klassifiziert,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,935,Taxi,Gut
+nicht klassifiziert,25,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2045,Auto,Gut
+Autobahn,84,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1040,Auto,Gut
+nicht klassifiziert,8,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1520,Auto,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1300,Fahrrad,Gut
+Bundesstrasse,42,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1148,Auto,Gut
+nicht klassifiziert,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,847,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,920,Transporter,Gut
+Autobahn,30,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1020,Auto,Regen
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1915,Auto,Gut
+nicht klassifiziert,47,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1853,Auto,Gut
+nicht klassifiziert,27,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,weiblich,1140,Bus,Gut
+nicht klassifiziert,23,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,1815,Auto,Gut
+nicht klassifiziert,80,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1745,Auto,Gut
+Bundesstrasse,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1440,Auto,Gut
+Landesstrasse,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,945,Fahrrad,Gut
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1935,Fahrrad,Gut
+Bundesstrasse,87,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1115,Auto,Gut (starker Wind)
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1200,Auto,Gut
+Bundesstrasse,36,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,900,Auto,Gut
+nicht klassifiziert,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1931,Auto,Gut
+nicht klassifiziert,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1930,Auto,Gut (starker Wind)
+nicht klassifiziert,51,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1700,Mottorrad (500cc),Gut
+nicht klassifiziert,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,745,Auto,Gut
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,nass / feucht,männlich,2130,Auto,Gut
+Autobahn,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,840,Auto,Gut
+nicht klassifiziert,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1315,Auto,Gut
+Landesstrasse,80,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1210,Bus,Gut
+nicht klassifiziert,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1640,Fahrrad,Gut
+Autobahn,39,Fahrer,Dunkelheit: keine Strassenbeleuchtung,3,2,nass / feucht,männlich,2025,Auto,Regen (starker Wind)
+nicht klassifiziert,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1540,Auto,Gut
+Bundesstrasse,40,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,nass / feucht,männlich,405,Fahrrad,Gut
+Bundesstrasse,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1930,Auto,Gut
+Bundesstrasse,52,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,2000,Auto,Gut
+Bundesstrasse,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,nass / feucht,männlich,1645,Auto,Gut (starker Wind)
+nicht klassifiziert,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,755,Auto,Gut
+Bundesstrasse,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2015,Auto,Gut
+Bundesstrasse,63,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,115,Auto,Regen
+Bundesstrasse,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1845,Mottorrad (50cc),Gut
+nicht klassifiziert,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,weiblich,200,Auto,Gut
+nicht klassifiziert,75,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,830,Bus,Gut
+Autobahn,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1110,Auto,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1930,Mottorrad (500cc),Gut
+Bundesstrasse,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1335,Auto,Gut
+nicht klassifiziert,17,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,15,Auto,Regen
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1605,Auto,Gut
+Kraftfahrzeugstrasse,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1303,Auto,Gut
+nicht klassifiziert,70,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1538,Mottorrad (500cc),Gut
+Autobahn,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,1240,Transporter,Andere
+nicht klassifiziert,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,920,Fahrrad,Gut
+Landesstrasse,40,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,325,Transporter,Gut
+Bundesstrasse,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1530,Fahrrad,Gut
+Bundesstrasse,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1335,Auto,Gut
+nicht klassifiziert,8,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1833,Fahrrad,Gut
+nicht klassifiziert,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1450,Auto,Gut
+Bundesstrasse,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1030,Auto,Gut
+nicht klassifiziert,30,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,2,trocken,männlich,2150,Auto,Gut
+Bundesstrasse,46,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2200,Auto,Gut
+nicht klassifiziert,7,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,6,2,trocken,weiblich,1224,Auto,Gut
+nicht klassifiziert,11,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,750,Auto,Gut
+Kraftfahrzeugstrasse,67,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1215,Auto,Gut
+nicht klassifiziert,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,953,Bus,Gut
+nicht klassifiziert,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1810,Fahrrad,Gut
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,3,trocken,weiblich,1340,Auto,Gut
+nicht klassifiziert,44,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,55,Auto,Gut
+nicht klassifiziert,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1935,Auto,Gut
+Bundesstrasse,16,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1645,Mottorrad (50cc),Gut
+nicht klassifiziert,86,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1605,Andere,Gut
+nicht klassifiziert,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,656,Auto,Gut
+Landesstrasse,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,2140,Auto,Gut
+Bundesstrasse,18,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,weiblich,2345,Taxi,Regen (starker Wind)
+nicht klassifiziert,61,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1405,Bus,Gut
+Bundesstrasse,51,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,748,Fahrrad,Unbekannt
+Bundesstrasse,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1115,Auto,Gut
+Bundesstrasse,51,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1310,Auto,Gut
+nicht klassifiziert,50,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und nicht beleuchtet,1,2,trocken,männlich,1635,Fahrrad,Gut
+nicht klassifiziert,54,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Schnee,weiblich,2245,Bus,Schnee
+nicht klassifiziert,78,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1915,Andere,Gut
+Landesstrasse,21,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2210,Auto,Gut
+Bundesstrasse,37,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1725,Fahrrad,Gut
+nicht klassifiziert,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,215,Kleinbus,Gut
+Bundesstrasse,16,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,20,Auto,Regen
+nicht klassifiziert,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1245,Auto,Gut
+Bundesstrasse,22,Fahrer,Dunkelheit: keine Strassenbeleuchtung,3,2,trocken,männlich,2147,Auto,Gut
+Bundesstrasse,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,955,Auto,Gut
+nicht klassifiziert,69,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,815,Auto,Gut
+Bundesstrasse,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1158,Auto,Gut
+Bundesstrasse,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,940,Fahrrad,Gut
+Bundesstrasse,56,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,312,Auto,Gut
+nicht klassifiziert,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1020,Auto,Gut
+nicht klassifiziert,48,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1250,Fahrrad,Gut
+Autobahn,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,4,nass / feucht,weiblich,1545,Auto,Regen
+Bundesstrasse,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,2239,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1710,Auto,Gut
+nicht klassifiziert,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1230,Andere,Gut
+nicht klassifiziert,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1300,Auto,Gut
+Bundesstrasse,41,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1600,Auto,Gut
+Autobahn,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1505,Auto,Gut
+nicht klassifiziert,46,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,weiblich,1845,Auto,Gut
+nicht klassifiziert,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1050,Auto,Gut (starker Wind)
+Bundesstrasse,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1131,Auto,Gut
+nicht klassifiziert,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,806,Fahrrad,Gut
+Bundesstrasse,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,945,Mottorrad (50cc),Gut
+Bundesstrasse,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1048,Bus,Gut
+nicht klassifiziert,43,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1145,Auto,Gut
+Bundesstrasse,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1800,Transporter,Gut
+Bundesstrasse,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1550,Fahrrad,Gut
+nicht klassifiziert,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1930,Mottorrad (50cc),Gut
+nicht klassifiziert,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1815,Auto,Gut
+Landesstrasse,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut
+nicht klassifiziert,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1010,Auto,Regen
+Bundesstrasse,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,4,trocken,männlich,1905,Auto,Gut
+Bundesstrasse,44,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1805,Auto,Gut
+nicht klassifiziert,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,männlich,1340,Transporter,Gut
+nicht klassifiziert,86,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1320,Auto,Gut
+Bundesstrasse,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,11,2,trocken,männlich,1940,Bus,Gut
+Kraftfahrzeugstrasse,24,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1933,Auto,Gut
+Bundesstrasse,64,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1125,Auto,Gut
+nicht klassifiziert,5,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1850,Auto,Gut
+nicht klassifiziert,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,850,Auto,Gut
+nicht klassifiziert,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,Frost/ Ice,männlich,1350,Auto,Andere
+Bundesstrasse,32,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1230,Bus,Gut
+nicht klassifiziert,46,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1700,Transporter,Gut
+nicht klassifiziert,20,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,trocken,männlich,205,Auto,Gut
+Bundesstrasse,20,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1820,Auto,Regen (starker Wind)
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1940,Auto,Gut
+nicht klassifiziert,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1125,Auto,Gut
+Bundesstrasse,32,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2255,Mottorrad (50cc),Gut
+nicht klassifiziert,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,748,Fahrrad,Gut
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,940,Fahrrad,Gut
+Landesstrasse,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2016,Auto,Gut
+Bundesstrasse,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,Frost / Eis,weiblich,900,Auto,Gut
+Bundesstrasse,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,945,Auto,Gut
+nicht klassifiziert,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,823,Auto,Gut
+Autobahn,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,4,trocken,weiblich,937,Auto,Gut
+nicht klassifiziert,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1820,Taxi,Gut
+nicht klassifiziert,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1820,Auto,Gut
+nicht klassifiziert,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,950,Transporter,Gut
+Bundesstrasse,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,957,Auto,Gut
+nicht klassifiziert,40,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,1,trocken,männlich,523,Auto,Gut
+Bundesstrasse,18,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,nass / feucht,männlich,1550,Auto,Gut
+nicht klassifiziert,14,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1600,Auto,Gut
+Bundesstrasse,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,1018,Fahrrad,Gut
+Bundesstrasse,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,939,Auto,Gut (starker Wind)
+nicht klassifiziert,43,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,35,Taxi,Gut
+Bundesstrasse,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,945,Fahrrad,Regen (starker Wind)
+nicht klassifiziert,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1350,Auto,Gut
+nicht klassifiziert,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1320,Mottorrad,Gut
+Bundesstrasse,10,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,nass / feucht,männlich,1756,Auto,Gut (starker Wind)
+nicht klassifiziert,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,1,nass / feucht,weiblich,1350,Auto,Regen
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1724,Auto,Gut
+Bundesstrasse,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2200,Taxi,Gut
+nicht klassifiziert,13,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1355,Auto,Gut
+nicht klassifiziert,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1705,Auto,Gut
+Bundesstrasse,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,510,Auto,Gut
+nicht klassifiziert,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1830,Auto,Gut
+Bundesstrasse,60,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1530,Mottorrad (50cc),Gut
+nicht klassifiziert,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1305,Auto,Regen
+nicht klassifiziert,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1420,Transporter,Gut
+Landesstrasse,82,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1510,Auto,Regen
+nicht klassifiziert,18,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1745,Auto,Gut
+Bundesstrasse,34,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1651,Auto,Regen
+nicht klassifiziert,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1415,Auto,Gut
+nicht klassifiziert,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1825,Auto,Gut
+nicht klassifiziert,49,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1750,Taxi,Regen
+Bundesstrasse,92,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1945,Auto,Gut
+nicht klassifiziert,27,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,2200,Auto,Gut
+Bundesstrasse,68,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,weiblich,1730,Auto,Gut
+nicht klassifiziert,3,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1535,Auto,Gut
+nicht klassifiziert,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1144,Kleinbus,Gut
+Landesstrasse,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,935,Bus,Gut
+Landesstrasse,64,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1400,Auto,Gut
+nicht klassifiziert,45,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,830,Auto,Gut
+Bundesstrasse,33,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1800,Auto,Gut
+Bundesstrasse,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1655,Auto,Gut
+nicht klassifiziert,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,1530,Taxi,Gut
+nicht klassifiziert,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1557,Mottorrad (500cc),Gut
+Bundesstrasse,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Auto,Gut
+Bundesstrasse,19,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2125,Auto,Gut (starker Wind)
+Bundesstrasse,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1437,Auto,Gut
+Bundesstrasse,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,900,Mottorrad (50cc),Gut
+Bundesstrasse,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1114,Auto,Gut
+Bundesstrasse,38,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,weiblich,1920,Auto,Gut
+Bundesstrasse,53,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,100,Auto,Gut
+nicht klassifiziert,30,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1920,Fahrrad,Gut
+Bundesstrasse,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,Frost/ Ice,weiblich,905,Auto,Gut
+nicht klassifiziert,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1423,Auto,Gut
+nicht klassifiziert,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1210,Bus,Gut
+Bundesstrasse,13,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1619,Bus,Gut
+Bundesstrasse,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,weiblich,945,Auto,Gut
+nicht klassifiziert,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1530,Auto,Regen
+Bundesstrasse,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2120,Auto,Gut
+nicht klassifiziert,37,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Transporter,Gut
+Autobahn,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,957,Auto,Gut
+nicht klassifiziert,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,18,Auto,Gut
+Autobahn,28,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1015,Auto,Gut
+Bundesstrasse,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1803,Auto,Regen
+nicht klassifiziert,68,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1650,Auto,Gut (starker Wind)
+nicht klassifiziert,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1330,Auto,Gut
+nicht klassifiziert,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2245,Mottorrad (50cc),Gut
+Bundesstrasse,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1025,Auto,Gut
+nicht klassifiziert,26,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,3,nass / feucht,weiblich,1553,Auto,Gut
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1446,Auto,Gut
+Autobahn,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,weiblich,712,Auto,Regen
+Bundesstrasse,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1545,Auto,Gut
+Landesstrasse,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,700,Mottorrad (50cc),Regen
+nicht klassifiziert,52,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1915,Auto,Gut
+nicht klassifiziert,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,230,Taxi,Gut
+Autobahn,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1700,Auto,Gut
+nicht klassifiziert,8,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1915,Auto,Gut
+Bundesstrasse,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,810,Auto,Gut
+Autobahn,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1734,Auto,Regen (starker Wind)
+nicht klassifiziert,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,6,2,trocken,männlich,2106,Taxi,Gut
+Bundesstrasse,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,830,Fahrrad,Gut
+nicht klassifiziert,31,Fussgänger,Dunkelheit: keine Strassenbeleuchtung,1,2,trocken,weiblich,1730,Auto,Gut
+nicht klassifiziert,3,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,nass / feucht,männlich,1630,Auto,Gut
+Bundesstrasse,38,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,weiblich,2042,Auto,Gut
+Kraftfahrzeugstrasse,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Frost/ Ice,männlich,435,Auto,Gut
+Bundesstrasse,32,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1225,Auto,Gut
+Bundesstrasse,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,männlich,840,Auto,Regen
+nicht klassifiziert,87,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1340,Bus,Gut
+nicht klassifiziert,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1800,Fahrrad,Gut
+Bundesstrasse,27,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,trocken,männlich,2120,Auto,Gut
+nicht klassifiziert,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1130,Auto,Gut
+nicht klassifiziert,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,810,Auto,Gut
+Bundesstrasse,15,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1723,Auto,Gut
+nicht klassifiziert,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1930,Auto,Gut
+Bundesstrasse,15,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1850,Auto,Gut
+Bundesstrasse,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut
+nicht klassifiziert,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1330,Auto,Gut
+Bundesstrasse,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1650,Auto,Regen
+Bundesstrasse,16,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,2235,Auto,Gut
+Bundesstrasse,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1634,Auto,Gut
+Landesstrasse,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Mottorrad (500cc),Gut
+Bundesstrasse,53,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,2000,Auto,Gut
+Landesstrasse,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1815,Auto,Gut
+nicht klassifiziert,62,Passagier,Dunkelheit: keine Strassenbeleuchtung,3,2,nass / feucht,männlich,1640,Auto,Gut
+nicht klassifiziert,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,2130,Auto,Gut
+nicht klassifiziert,38,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1805,Auto,Gut
+nicht klassifiziert,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,818,Auto,Nebel
+nicht klassifiziert,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1512,Auto,Gut
+Bundesstrasse,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,8,2,trocken,weiblich,45,Auto,Gut
+nicht klassifiziert,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,900,Auto,Gut
+Bundesstrasse,51,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1516,Auto,Gut
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1200,Auto,Gut
+nicht klassifiziert,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1605,Mottorrad,Gut
+nicht klassifiziert,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1900,Auto,Gut
+Landesstrasse,81,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1105,Bus,Gut
+Bundesstrasse,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,840,Mottorrad (50cc),Regen
+nicht klassifiziert,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2225,Auto,Gut
+nicht klassifiziert,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1144,Bus,Gut
+nicht klassifiziert,16,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1745,Mottorrad,Gut
+nicht klassifiziert,70,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,950,Auto,Gut
+nicht klassifiziert,22,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,333,Auto,Gut
+nicht klassifiziert,71,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1155,Auto,Regen (starker Wind)
+Bundesstrasse,39,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1330,Auto,Gut
+Bundesstrasse,67,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,männlich,1850,Auto,Gut
+Bundesstrasse,22,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,1,trocken,männlich,215,Auto,Gut
+nicht klassifiziert,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1445,Auto,Gut
+Bundesstrasse,85,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1015,Auto,Gut (starker Wind)
+nicht klassifiziert,32,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,3,trocken,männlich,1700,Auto,Gut
+Autobahn,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1419,Auto,Gut
+Bundesstrasse,62,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1330,Auto,Gut
+nicht klassifiziert,11,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1620,Auto,Gut
+nicht klassifiziert,8,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1600,Fahrrad,Gut
+Bundesstrasse,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,710,Fahrrad,Gut
+nicht klassifiziert,42,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,130,Fahrrad,Gut
+Bundesstrasse,68,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1040,Bus,Gut
+nicht klassifiziert,47,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1530,Auto,Gut
+nicht klassifiziert,39,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1110,Auto,Gut
+Bundesstrasse,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,5,trocken,männlich,1350,Auto,Gut
+Bundesstrasse,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,815,Auto,Gut
+nicht klassifiziert,15,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,805,Auto,Gut
+Bundesstrasse,69,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1442,Bus,Gut
+Bundesstrasse,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1700,Auto,Gut
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Mottorrad,Gut
+Bundesstrasse,45,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,Frost / Eis,weiblich,1715,Auto,Nebel
+nicht klassifiziert,25,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1835,Auto,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1230,Auto,Gut
+nicht klassifiziert,77,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,nass / feucht,weiblich,1640,Bus,Gut
+Bundesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1710,Mottorrad (50cc),Gut
+Landesstrasse,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1705,Fahrrad,Gut
+Bundesstrasse,1,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1015,Auto,Gut
+Bundesstrasse,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1207,Auto,Gut
+nicht klassifiziert,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1100,Auto,Gut
+nicht klassifiziert,67,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1400,Auto,Gut
+Bundesstrasse,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1309,Transporter,Gut
+nicht klassifiziert,4,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1805,Auto,Gut
+Bundesstrasse,30,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1750,Auto,Gut
+Bundesstrasse,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1507,Mottorrad,Gut
+nicht klassifiziert,90,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1345,Auto,Gut
+nicht klassifiziert,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1050,Mottorrad (50cc),Gut
+nicht klassifiziert,78,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1355,Bus,Gut
+nicht klassifiziert,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1147,Auto,Gut (starker Wind)
+Autobahn,80,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,3,nass / feucht,weiblich,1730,Auto,Regen
+Bundesstrasse,16,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2200,Auto,Gut
+nicht klassifiziert,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,853,Fahrrad,Gut
+Bundesstrasse,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,2345,Taxi,Regen (starker Wind)
+nicht klassifiziert,79,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1615,Auto,Gut
+nicht klassifiziert,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,1,nass / feucht,männlich,1350,Auto,Regen
+nicht klassifiziert,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1425,Auto,Gut
+Bundesstrasse,59,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,730,Mottorrad (125cc),Gut
+nicht klassifiziert,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1332,Mottorrad (125cc),Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1930,Auto,Unbekannt
+nicht klassifiziert,34,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,840,Auto,Gut
+nicht klassifiziert,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1252,Mottorrad,Gut
+Autobahn,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,6,7,trocken,männlich,1701,Auto,Gut
+Bundesstrasse,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1321,Auto,Gut
+nicht klassifiziert,19,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2145,Auto,Gut
+Landesstrasse,13,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,950,Fahrrad,Gut
+Bundesstrasse,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1400,Auto,Gut
+Bundesstrasse,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1630,Auto,Gut
+Bundesstrasse,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,840,Fahrrad,Gut
+nicht klassifiziert,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2040,Auto,Gut
+nicht klassifiziert,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,935,Taxi,Regen
+nicht klassifiziert,48,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1115,LKW bis 7.5t,Gut
+Bundesstrasse,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,850,Auto,Regen
+Kraftfahrzeugstrasse,60,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,3,nass / feucht,weiblich,1825,Auto,Regen
+Autobahn,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2142,LKW ab 7.5t,Gut (starker Wind)
+nicht klassifiziert,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2300,Mottorrad,Regen (starker Wind)
+nicht klassifiziert,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1515,Auto,Gut
+Bundesstrasse,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1410,Auto,Gut
+Bundesstrasse,44,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,2015,Auto,Gut
+nicht klassifiziert,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1845,Fahrrad,Gut
+Kraftfahrzeugstrasse,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1505,Auto,Gut
+Landesstrasse,56,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1715,Fahrrad,Gut
+nicht klassifiziert,25,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1829,Auto,Gut
+Bundesstrasse,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1130,Bus,Gut
+nicht klassifiziert,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,2040,Auto,Gut
+nicht klassifiziert,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1632,Auto,Gut
+Bundesstrasse,23,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2228,Auto,Gut
+nicht klassifiziert,18,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,308,Auto,Gut
+Bundesstrasse,38,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2000,Auto,Gut
+Bundesstrasse,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,1354,Auto,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1458,97,Gut
+nicht klassifiziert,7,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,840,Auto,Gut
+nicht klassifiziert,28,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,weiblich,1800,Taxi,Gut
+nicht klassifiziert,32,Passagier,Dunkelheit: keine Strassenbeleuchtung,3,1,trocken,männlich,100,Auto,Gut
+nicht klassifiziert,76,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1230,Auto,Gut
+Bundesstrasse,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1411,Auto,Gut
+Bundesstrasse,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1150,Auto,Gut
+nicht klassifiziert,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1215,Fahrrad,Gut
+Bundesstrasse,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,812,Auto,Gut
+nicht klassifiziert,82,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,950,Bus,Gut
+nicht klassifiziert,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,nass / feucht,männlich,2309,Auto,Gut
+Landesstrasse,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,400,Auto,Gut
+Bundesstrasse,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1140,Bus,Gut
+Bundesstrasse,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,830,Auto,Gut
+Bundesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1635,Auto,Gut
+nicht klassifiziert,29,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2000,Auto,Unbekannt
+nicht klassifiziert,71,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1115,Bus,Gut
+nicht klassifiziert,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,845,Mottorrad,Gut
+Bundesstrasse,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,145,Auto,Gut
+nicht klassifiziert,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2215,Auto,Gut
+nicht klassifiziert,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1800,Auto,Gut
+nicht klassifiziert,21,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,2047,Auto,Gut
+nicht klassifiziert,51,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,1805,Auto,Gut
+nicht klassifiziert,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,935,Auto,Gut
+Bundesstrasse,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,2055,Auto,Gut
+Bundesstrasse,15,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1545,Auto,Gut
+Bundesstrasse,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1345,Auto,Gut
+nicht klassifiziert,4,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1520,Auto,Gut
+Bundesstrasse,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1800,Auto,Gut
+Bundesstrasse,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1500,Mottorrad (500cc),Gut
+Bundesstrasse,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,745,Auto,Regen
+Bundesstrasse,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1125,Auto,Gut
+Bundesstrasse,13,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,1830,Auto,Gut
+nicht klassifiziert,24,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,Schnee,männlich,340,Taxi,Gut
+Bundesstrasse,63,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,2315,Auto,Gut
+Bundesstrasse,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1451,Fahrrad,Gut
+Bundesstrasse,2,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1131,Auto,Gut
+nicht klassifiziert,60,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1036,Auto,Gut
+Bundesstrasse,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1444,Auto,Gut
+nicht klassifiziert,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,805,Auto,Gut
+nicht klassifiziert,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1910,Bus,Gut
+Bundesstrasse,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,850,Fahrrad,Gut
+Bundesstrasse,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1823,Mottorrad (500cc),Gut
+Bundesstrasse,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2115,Auto,Gut
+Bundesstrasse,58,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1745,Auto,Gut
+nicht klassifiziert,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1250,Fahrrad,Gut
+nicht klassifiziert,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1550,Mottorrad (50cc),Gut
+Bundesstrasse,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1738,Fahrrad,Gut
